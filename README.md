@@ -113,7 +113,7 @@ Generate a profile card image for the given Instagram username.
 
 **Example:**
 ```bash
-curl http://localhost:8080/profile/akiraa.init -o card.png
+curl http://localhost:8080/profile/example_username -o card.png
 ```
 
 **Card Contents:**
